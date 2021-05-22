@@ -1,3 +1,10 @@
+/*
+    Rodin Fedor
+    m3o-121b-20
+*/
+
+// compile on gcc with -lm flag
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

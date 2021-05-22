@@ -1,12 +1,13 @@
 /*
-    M3O-121b-20 Rodin Fedor
+    Rodin Fedor
+    m3o-121b-20
 */
 
 #include <stdio.h>
 
 int input_num;
 
-int main() {
+int main(void) {
 
     scanf("%i", &input_num);
 
